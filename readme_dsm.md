@@ -18,7 +18,7 @@
 * [Intro Machine Learning](./SLIDES/Intro%20Machine%20Learning.pdf) 
 * [KNN](./SLIDES/KNN.pdf) (~4 hours)
 
-* [Decision Trees](./SLIDES/DT_classification.pdf)
+* [Decision Trees](./SLIDES/Trees.pdf)
 * [Decision Trees Code](./DSM_CODE/decision-trees/) (~4 ore)
 * 
 * [Linear Models](./SLIDES/Linear_Models.pdf)
@@ -32,10 +32,6 @@
 * [Transformer Tutorial](https://www.youtube.com/watch?v=bCz4OMemCcA)
 * [Neural Code](./DSM_CODE/neural)  (~16 ore)
 
-
-* [Timeseries](./SLIDES/Regression_Timeseries.pdf)
-* [Regression Code](./DSM_CODE/regression/) 
-* [Timeseries Code](./DSM_CODE/timeseries/) (~4 ore)
   
 * [Digital Twin](./) (~4 ore)
 * [Federated Learning](./) (~4 ore)
