@@ -10,7 +10,6 @@
 * [Intro Numpy](./DSM_CODE/intro-numpy-pandas-matplotlib/1_numpy/intro_numpy.ipynb) (~4 ore)
 * [Intro Pandas](./DSM_CODE/intro-numpy-pandas-matplotlib/2_pandas/intro_pandas.ipynb)  (~4 ore)
 * [Intro Matplotlib](./DSM_CODE/intro-numpy-pandas-matplotlib/3_matplotlib/intro_matplotlib.ipynb)  (~4 ore)
-* [Intro Azienda Piusi](./SLIDES/ERP-PIUSI%20COMPANY%20PROFILE.pdf), [Intro ERP](./SLIDES/ERP-MODELLO%20A%205%20DIMENSIONI.pdf) 
 * [Decision Trees](./SLIDES/DT_classification.pdf)
 * [Decision Trees Code](./DSM_CODE/decision-trees/) (~4 ore)
 * [Linear Models](./SLIDES/Linear_Models.pdf)

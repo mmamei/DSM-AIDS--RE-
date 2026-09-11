@@ -1,4 +1,14 @@
-\## Machine Learning
+## Statistics
+* Mean, variance, standard deviation, correlation
+* Describe the Bonferroni principle
+* Sampling, Simpson’s paradox
+* Simple hypothesis-testing exercises (on paper)
+* Simple exercise on Bayes’ theorem / conditional probability (on paper)
+* Describe a hypothesis test and the p-value
+* Bayes’ theorem
+
+
+## Machine Learning
 
 * Describe a supervised learning system.
 * Describe the metrics used to evaluate a classification system: confusion matrix, accuracy, precision, recall, F1.
@@ -9,12 +19,12 @@
 * Overfitting.
 * Data preprocessing: standardization, one-hot encoding, binning.
 
-\## KNN
+## KNN
 
 * Describe a KNN classifier.
 * Solve an exercise / invent a small dataset and apply KNN by hand.
 
-\## Decision Tree
+## Decision Tree
 
 * Describe a classifier based on decision trees.
 * What are the Gini index and Information Gain criteria?
@@ -22,11 +32,11 @@
 * How can missing/continuous values be handled?
 * Solve an exercise / invent a small dataset and apply a decision tree by hand.
 
-\## Ensemble Methods
+## Ensemble Methods
 
 * Ensemble methods: Bagging, Boosting, Stacking.
 
-\## Linear Models
+## Linear Models
 
 * Describe a linear classification model, with reference to the perceptron.
 * How does learning through gradient descent work? Give a practical example.
@@ -35,7 +45,7 @@
 * Describe a linear regression model with reference to an SSE error function.
 * Describe a logistic regression model.
 
-\## Neural Networks
+## Neural Networks
 
 * Describe an MLP neural network and learning through backpropagation.
 * Describe the loss functions and output nodes for an MLP used for classification.
@@ -44,14 +54,14 @@
 * How can the learning rate be set? SGD, Momentum, RMSProp, Adam.
 * What is a convolutional network?
 
-\## Forecasting and Regression
+## Forecasting and Regression
 
 * What is the difference between prediction and forecasting?
 * How is time series forecasting performed?
 * How is regression performed in a decision tree regressor?
 * How is regression performed in a KNN regressor?
 
-\## Unsupervised Learning
+## Unsupervised Learning
 
 * What is meant by unsupervised learning?
 * How does a clustering algorithm work? What is meant by inter-cluster and intra-cluster similarity?
