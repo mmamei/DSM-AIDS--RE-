@@ -1,0 +1,8 @@
+https://www.kaggle.com/datasets/devavratatripathy/ecg-dataset
+
+Apply Conv1D to time series classificatiom hard
+Complex question. Look at the last GlobalAveragePooling1D layer. 
+What are the most important features (among the 64) used in the classifaction?
+Is there a feature resembling Fourier?
+
+https://github.com/ageron/handson-ml2/blob/master/15_processing_sequences_using_rnns_and_cnns.ipynb

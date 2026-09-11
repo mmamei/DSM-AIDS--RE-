@@ -1,0 +1,39 @@
+Esercizio 1
+-leggere il file autoMpg.csv e stampa l'inizio del dataframe
+-quante righe e quante colonne ha?
+-crea una lista con i nomi delle colonne
+-stampa i valori di 'horsepower' delle righe da 20 a 30 incluse
+-ordina i dati e trova le 5 righe con valore più altro di mpg
+-stampa l'istogramma delle frequenze della colonna 'cylinders', trova la categoria con il -maggior numero di casi
+
+
+Esercizio 2
+Confronta i dati di 4 files e crea un unico file con le colonne scelte dei 4 files
+
+-leggi i file act e sat 2017 e 2018, visualizza i file e le dimensioni degli stessi
+-Tieni solo le colonne Sate, Participation, Composite, Total
+-in America ci sono 51 stati, analizza eventuali errori e correggi
+-Verifica che nei file del 2018, National non è impostato. Rimuovi National dappertutto
+-Controlla discrepanze nei nomi degli stati tra i file del 2017 e quelli del 2018, poi correggi
+-Check if there are NaN values
+-Check type of columns and convert to number
+-Rename columns but State to avoid conflict
+-merge the dataframe
+-saved merged csv
+
+
+Esercizio 3
+-leggi i 3 file del movielens dataset
+-effettua il merge in un unico dataframe
+-trova i 10 film con più recensioni
+-trova i 5 film con media voti più alta
+-trova i 10 film con media voti più alta, tra quelli che hanno almeno 100 voti
+-per ogni film calcola la differenza tra la media voti dati dai maschi alla media voti data dalle femmine
+
+
+Esercizio 4
+Analyze titanic dataset
+- Clean NaN Data
+- Which gender had a better chance of survival?
+- Which social class had a better chance of survival?
+- Which age group had a better chance of survival? ['0-9', '10-19', '20-29', '30-39', '40-49', '50-59', '60-69', '70-79']

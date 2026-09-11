@@ -1,0 +1,13 @@
+
+*** Esercizi matplotlib
+
+1. Leggere il dataset houses.csv, visualizzare scatterplot tra le features e la variabile selling-price
+
+2. Ripetere la stessa cosa con il dataset autoMpg.csv, usare la variabile mpg come y
+
+3. Sempre con il datset autoMpg.csv creare un istrogramma che mostri la distribuzione della feature cylinder
+
+4. Leggere il banca.csv e visualizzate un boxplot che mostri la distribuzione delle feature numeriche. Dividere il grafico tra quelli che ripagano il debito e quelli che non lo ripagano
+
+5. Leggere il dataset titanic.csv, visualizzare un boxplot che mostri la distribuzione delle età delle varie persone presenti
+Creare boxplot separati per sesso e classe di bigletto

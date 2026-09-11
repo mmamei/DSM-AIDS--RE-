@@ -1,0 +1,11 @@
+venv/
+secret/
+dataset_big/
+**secret**
+BOOK/
+EXTRA/
+TESINE/
+STUFF/
+OLD/
+*.pptx
+*.pyc

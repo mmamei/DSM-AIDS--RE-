@@ -1,0 +1,7 @@
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+numpy
+pandas
+matplotlib
+keras
+scikit-learn
+tensorflow

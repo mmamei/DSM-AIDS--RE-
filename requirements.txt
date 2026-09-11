@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+keras
+tensorflow
+seaborn
+# mlxtend==0.23.1
+# openpyxl
+# pandocfilters

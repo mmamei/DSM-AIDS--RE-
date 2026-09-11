@@ -1,0 +1,6 @@
+u_cols = ['user_id', 'age', 'sex', 'occupation', 'zip_code']
+r_cols = ['user_id', 'movie_id', 'rating', 'unix_timestamp']
+m_cols = ['movie_id', 'title', 'release_date', 'video_release_date', 'imdb_url']
+
+
+encoding='latin-1'
