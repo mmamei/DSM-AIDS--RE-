@@ -29,9 +29,10 @@
 * [AutoEncoders](./SLIDES/Neural%20-%20Autoencoder.pdf) 
 * [Recurrrent Netural Netwoes](./SLIDES/Neural%20-%20RNN.pdf)
 * [LSTM Tutorial](https://www.youtube.com/watch?v=YCzL96nL7j0)
-* [Transformer Tutorial](https://www.youtube.com/watch?v=bCz4OMemCcA)
 * [Neural Code](./DSM_CODE/neural)  (~16 ore)
 
-  
+
+* [LLM](./) (~4 ore)
+* [Transformer Tutorial](https://www.youtube.com/watch?v=bCz4OMemCcA)
 * [Digital Twin](./) (~4 ore)
 * [Federated Learning](./) (~4 ore)
