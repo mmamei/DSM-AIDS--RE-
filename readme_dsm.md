@@ -7,11 +7,11 @@
 
 ## Python Recap + Libraries
 
-* [Google Colab](./SLIDES/coding/Google%20Colab.pdf) (~13 ore)
-* [Python Prerequisites](./SLIDES/coding/Python%20Prerequisites.pdf)
-* [Numpy](./SLIDES/coding/Numpy.pdf)
-* [Pandas](./SLIDES/coding/Pandas.pdf)
-* [Matplotlib](./SLIDES/coding/Matplotlib.pdf)
+* [Google Colab](./SLIDES/coding/Google%20Colab.pdf) (~2 ore)
+* [Python Prerequisites](./SLIDES/coding/Python%20Prerequisites.pdf) (~2 ore)
+* [Numpy](./SLIDES/coding/Numpy.pdf) (~2 ore)
+* [Pandas](./SLIDES/coding/Pandas.pdf) (~4 ore)
+* [Matplotlib](./SLIDES/coding/Matplotlib.pdf) (~2 ore)
 
 
 ## Information Systems
