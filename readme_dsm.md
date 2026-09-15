@@ -33,7 +33,7 @@
 
 * [Decision Trees](./SLIDES/Trees.pdf)
 * [Decision Trees Code](./DSM_CODE/decision-trees/) (~4 ore)
-* 
+  
 * [Linear Models](./SLIDES/Linear_Models.pdf)
 * [Linear Models Code](./DSM_CODE/linear-classifier/)  (~4 ore)
   
