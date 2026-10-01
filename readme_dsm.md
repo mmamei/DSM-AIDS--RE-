@@ -7,24 +7,26 @@
 
 ## Python Recap + Libraries
 
-* [Google Colab](./SLIDES/coding/Google%20Colab.pdf) (~2 ore)
-* [Python Prerequisites](./SLIDES/coding/Python%20Prerequisites.pdf) (~2 ore)
-* [Numpy](./SLIDES/coding/Numpy.pdf) (~2 ore)
-* [Pandas](./SLIDES/coding/Pandas.pdf) (~4 ore)
-* [Matplotlib](./SLIDES/coding/Matplotlib.pdf) (~2 ore)
+* [Google Colab](./SLIDES/coding/Google%20Colab.pdf) (~2 ore) [17-09-2026]
+* [Python Prerequisites](./SLIDES/coding/Python%20Prerequisites.pdf) (~2 ore) [17-09-2026]
+* [Numpy](./SLIDES/coding/Numpy.pdf) (~2 ore) [22-09-2026]
+* [Pandas](./SLIDES/coding/Pandas.pdf) (~4 ore) [24-09-2026]
+* [Matplotlib](./SLIDES/coding/Matplotlib.pdf) (~2 ore) [29-09-2026]
+
+
+
+## Statistics
+
+* [Statistics](./SLIDES/Statistics.pdf) (~12 ore) [1-10-2026, ....]
+* [Association Rules](./SLIDES/09%20-%20ItemSet-AssociationRules.pdf) (~4 ore)
+* [Clustering](./SLIDES/Clustering.pdf) 
+* [Clustering Code](./DSM_CODE/clustering1/) (~4 ore) 
 
 
 ## Information Systems
 
 * [BigData](./SLIDES/08%20-%20Big%20Data.pdf) (~4 ore)
 * [ERP, MES and Information Syetems](./SLIDES/10%20-%20ERP.pdf) (~4 ore)
-
-## Statistics
-
-* [Statistics](./SLIDES/Statistics.pdf) (~12 ore)
-* [Association Rules](./SLIDES/09%20-%20ItemSet-AssociationRules.pdf) (~4 ore)
-* [Clustering](./SLIDES/Clustering.pdf) 
-* [Clustering Code](./DSM_CODE/clustering1/) (~4 ore) 
 
 ## Machine Learning
 
