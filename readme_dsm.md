@@ -17,26 +17,26 @@
 
 ## Statistics
 
-* [Statistics](./SLIDES/Statistics.pdf) (~12 ore) [1-10-2026, ....]
-* [Association Rules](./SLIDES/09%20-%20ItemSet-AssociationRules.pdf) (~4 ore)
-* [Clustering](./SLIDES/Clustering.pdf) 
+* [Statistics](./SLIDES/Statistics.pdf) (~12 ore) [1-10-2026, 6-10-2026, 8-10-2026]
+* [Clustering](./SLIDES/Clustering.pdf) [13-10-2026]
 * [Clustering Code](./DSM_CODE/clustering1/) (~4 ore) 
-
+* [Association Rules](./SLIDES/09%20-%20ItemSet-AssociationRules.pdf) (~4 ore) [22-10-2026]
 
 ## Information Systems
 
-* [BigData](./SLIDES/08%20-%20Big%20Data.pdf) (~4 ore)
-* [ERP, MES and Information Syetems](./SLIDES/10%20-%20ERP.pdf) (~4 ore)
+* [BigData](./SLIDES/08%20-%20Big%20Data.pdf) (~4 ore) [27-10-2026]
+* [ERP, MES and Information Syetems](./SLIDES/10%20-%20ERP.pdf) (~4 ore) [27-10-2026]
+* [Digital Twin](./) (~4 ore) [29-10-2026]
 
 ## Machine Learning
 
-* [Intro Machine Learning](./SLIDES/Intro%20Machine%20Learning.pdf) 
+* [Intro Machine Learning](./SLIDES/Intro%20Machine%20Learning.pdf) [15-10-2026]
 * [KNN](./SLIDES/KNN.pdf) (~4 hours)
 
-* [Decision Trees](./SLIDES/Trees.pdf)
+* [Decision Trees](./SLIDES/Trees.pdf) [20-10-2026]
 * [Decision Trees Code](./DSM_CODE/decision-trees/) (~4 ore)
   
-* [Linear Models](./SLIDES/Linear_Models.pdf)
+* [Linear Models](./SLIDES/Linear_Models.pdf) [10-11-2026]
 * [Linear Models Code](./DSM_CODE/linear-classifier/)  (~4 ore)
   
 * [Neural Networks](./SLIDES/Neural.pdf) 
@@ -51,5 +51,4 @@
 
 * [LLM](./) (~4 ore)
 * [Transformer Tutorial](https://www.youtube.com/watch?v=bCz4OMemCcA)
-* [Digital Twin](./) (~4 ore)
 * [Federated Learning](./) (~4 ore)
