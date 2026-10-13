@@ -2,7 +2,7 @@
 
 ## Introduzione
 * [Introduzione](./SLIDES/Introduction%20DSM.pdf) [15-09-2026]
-* [Intro Data Science and Management](./SLIDES/01%20–%20Data%20Science%20and%20Management.pdf) [15-09-2026]
+* [Intro Data Science and Management](./SLIDES/Intro%20Data%20Science.pdf) [15-09-2026]
 * [Project Example](./esempi_tesine/) (~4 ore) [15-09-2026]
 
 ## Python Recap + Libraries
