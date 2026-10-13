@@ -1,7 +1,7 @@
 # Data Science and Management
 
 ## Introduzione
-* [Introduzione](./SLIDES/00%20-%20Introduction.pdf) [15-09-2026]
+* [Introduzione](./SLIDES/Introduction%20DSM.pdf) [15-09-2026]
 * [Intro Data Science and Management](./SLIDES/01%20–%20Data%20Science%20and%20Management.pdf) [15-09-2026]
 * [Project Example](./esempi_tesine/) (~4 ore) [15-09-2026]
 
