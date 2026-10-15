@@ -18,9 +18,9 @@
 ## Statistics
 
 * [Statistics](./SLIDES/Statistics.pdf) (~12 ore) [1-10-2026, 6-10-2026, 8-10-2026]
-* [Clustering](./SLIDES/Clustering.pdf) [13-10-2026]
+* [Clustering](./SLIDES/Clustering.pdf) 
 * [Clustering Code](./DSM_CODE/clustering1/) (~4 ore) 
-* [Association Rules](./SLIDES/09%20-%20ItemSet-AssociationRules.pdf) (~4 ore) [22-10-2026]
+* [Association Rules](./SLIDES/09%20-%20ItemSet-AssociationRules.pdf) (~4 ore) 
 
 ## Information Systems
 
@@ -30,7 +30,7 @@
 
 ## Machine Learning
 
-* [Intro Machine Learning](./SLIDES/Intro%20Machine%20Learning.pdf) [15-10-2026]
+* [Intro Machine Learning](./SLIDES/Intro%20Machine%20Learning.pdf) [13-10-2026]
 * [KNN](./SLIDES/KNN.pdf) (~4 hours)
 
 * [Decision Trees](./SLIDES/Trees.pdf) [20-10-2026]
